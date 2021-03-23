@@ -1,4 +1,4 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+/* @import "~bootstrap/dist/css/bootstrap.min.css"; */
 body {
     background-color: green;
 
@@ -28,10 +28,14 @@ body {
 .click {
     padding: 10px;
     
+
 }
 .btn {
     background: white;
 }
-.btn:: :hover{
+.btn:hover{
     background: green;
+}
+.icono{
+    color: red;
 }
